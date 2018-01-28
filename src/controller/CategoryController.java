@@ -14,7 +14,7 @@ import pojo.Category;
 import service.CategoryService;
 import util.Page;
 
-// 注解告诉spring mvc这是一个控制器类
+// 注解  告诉spring mvc这是一个控制器类
 @Controller
 @RequestMapping("")
 public class CategoryController {
